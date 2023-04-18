@@ -122,45 +122,83 @@ rf5
 
 # Initial dataset:
 
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/71.png)
+
 # Encoded dataset:
+
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/72.png)
 
 # Data scaling using MinMaxScaler:
 
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/73.png)
+
 # Data scaling using StandardScalar:
+
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/75.png)
 
 # Data scaling using MaxAbsScaler:
 
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/76.png)
+
 # Data scaling using RobustScaler:
+
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/77.png)
 
 # Encoding.csv:
 
 # Initial dataset:
 
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/78.png)
+
 # Encoded dataset:
+
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/79.png)
 
 # Data scaling using MinMaxScaler:
 
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/80.png)
+
 # Data scaling using StandardScalar:
+
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/81.png)
 
 # Data scaling using MaxAbsScaler:
 
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/82.png)
+
 # Data scaling using RobustScaler:
+
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/83.png)
 
 # Titanic_dataset.csv:
 
 # Initial dataset:
 
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/84.png)
+
 # isnull.sum()
+
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/85.png)
 
 # Encoded dataset:
 
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/86.png)
+
 # Data scaling using MinMaxScaler:
+
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/87.png)
 
 # Data scaling using StandardScalar:
 
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/88.png)
+
 # Data scaling using MaxAbsScaler:
 
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/89.png)
+
 # Data scaling using RobustScaler:
+
+![](https://github.com/saran7d/EX-05-Feature-Generation/blob/main/90.png)
 
 # RESULT:
 
