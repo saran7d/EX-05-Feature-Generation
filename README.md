@@ -2,7 +2,7 @@
 
 DATE:
 
-GITHUB LINK: 
+GITHUB LINK: https://github.com/saran7d/EX-05-Feature-Generation.git
 
 COLAB LINK: https://colab.research.google.com/drive/1Dj37e5h_M0y1RLoCYJi88JximNc0xYbh?usp=sharing
 
