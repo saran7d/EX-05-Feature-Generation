@@ -1,5 +1,11 @@
 # EX-05-Feature-Generation
 
+DATE:
+
+GITHUB LINK: 
+
+COLAB LINK: https://colab.research.google.com/drive/1Dj37e5h_M0y1RLoCYJi88JximNc0xYbh?usp=sharing
+
 
 ## AIM
 To read the given data and perform Feature Generation process and save the data to a file. 
